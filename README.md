@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug: a TypeError caused by attempting to perform an operation on incompatible data types. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides the corrected version.
